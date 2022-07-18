@@ -21,7 +21,7 @@ My name is Begonia and I'm a Junior Web Developer.
 Very familiar with the MERN Stack can't wait to fill my profile with all sorts of projects!
 
 <p>Some of my best work below!</P>
-[Manga Print](https://manga-print.netlify.app/)
+<p>[Manga Print](https://manga-print.netlify.app "Manga Print")</p>
 <a href="https://github.com/adriendev/manga-print">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adriendev&repo=manga-print&theme=aura_dark" />
 </a>
