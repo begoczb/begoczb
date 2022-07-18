@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begoczb&layout=compact)]
 
-These are my best works!
+<p>These are my best works!</p>
 <a href="https://github.com/adriendev/manga-print">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adriendev&repo=manga-print" />
 </a>
