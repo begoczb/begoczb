@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=begoczb&show_icons=true&theme=onedark)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=begoczb&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begoczb&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>These are my best works!</p>
 <a href="https://github.com/adriendev/manga-print">
