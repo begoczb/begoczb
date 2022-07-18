@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=begoczb&show_icons=true&theme=aura_dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begoczb&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>These are my best works!</p>
+My name is Begonia and I'm a Junior Web Developer. 
+Very familiar with the MERN Stack can't wait to fill my profile with all sorts of projects!
+
+<p>Some of my best work below!</P>
+📖 [Manga Print(https://manga-print.netlify.app/)](https://manga-print.netlify.app/)
 <a href="https://github.com/adriendev/manga-print">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adriendev&repo=manga-print&theme=aura_dark" />
 </a>
