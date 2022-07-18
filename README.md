@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=begoczb&show_icons=true&theme=onedark)
+
+<a href="https://github.com/begoczb/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=begoczb&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/begoczb/Manga-Releases-API">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=begoczb&repo=Manga-Releases-API" />
+</a>
