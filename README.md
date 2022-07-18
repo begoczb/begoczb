@@ -16,9 +16,15 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=begoczb&show_icons=true&theme=onedark)
 
-<a href="https://github.com/begoczb/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=begoczb&repo=github-readme-stats" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begoczb&layout=compact)]
+
+These are my best works!
+<a href="https://github.com/adriendev/manga-print">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adriendev&repo=manga-print" />
 </a>
 <a href="https://github.com/begoczb/Manga-Releases-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=begoczb&repo=Manga-Releases-API" />
+</a>
+<a href="https://github.com/begoczb/Alien-Mi-Casa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=begoczb&repo=Alien-Mi-Casa" />
 </a>
