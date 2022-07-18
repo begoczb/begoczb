@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p>These are my best works!</p>
 <a href="https://github.com/adriendev/manga-print">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adriendev&repo=manga-print" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adriendev&repo=manga-print&theme=onedark" />
 </a>
 <a href="https://github.com/begoczb/Manga-Releases-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=begoczb&repo=Manga-Releases-API" />
