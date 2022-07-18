@@ -23,8 +23,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adriendev&repo=manga-print&theme=onedark" />
 </a>
 <a href="https://github.com/begoczb/Manga-Releases-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=begoczb&repo=Manga-Releases-API" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=begoczb&repo=Manga-Releases-API&theme=onedark" />
 </a>
 <a href="https://github.com/begoczb/Alien-Mi-Casa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=begoczb&repo=Alien-Mi-Casa" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=begoczb&repo=Alien-Mi-Casa&theme=onedark" />
 </a>
