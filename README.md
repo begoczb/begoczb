@@ -32,3 +32,6 @@ Very familiar with the MERN Stack can't wait to fill my profile with all sorts o
 <a href="https://github.com/begoczb/Alien-Mi-Casa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=begoczb&repo=Alien-Mi-Casa&theme=aura_dark" />
 </a>
+<a href="https://github.com/begoczb/shelter-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=begoczb&repo=Alien-Mi-Casa&theme=aura_dark" />
+</a>
